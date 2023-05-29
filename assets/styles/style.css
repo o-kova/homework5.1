@@ -25,10 +25,11 @@ body {
 .container {
   max-width: 1440px;
   margin: 0 auto;
+  padding: 0 110px;
 }
 
 .outside-container {
-  max-width: 1220px;
+  max-width: 1440px;
   padding: 32px 110px;
 
   display: flex;
@@ -66,7 +67,7 @@ li a {
 
 #cart {
   padding-right: 24px;
-  padding-left: 280px;
+  padding-left: 450px;
 }
 
 .page1 {
@@ -97,7 +98,8 @@ li a {
 }
 
 .image_page1 {
-  width: 100%;
+  width: 720px;
+  height: 734px;
 
   margin-right: -110px;
 }
